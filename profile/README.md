@@ -18,12 +18,7 @@ Being a great developer is about producing excellent work, not public speaking. 
 
 The application process is open to anyone. Developers can submit their projects, code, and contributions for evaluation. A team of expert reviewers assesses each submission based on key criteria, including the quality of work, innovation, and relevance to the broader developer ecosystem.
 
-<!-- I hate inline styling but here I will make an exception -->
-
-<div style="display: flex; gap: 1rem; padding: 1rem 0 2rem">
-<a href="https://www.globaldeveloper.expert/apply" target="_blank" style="background-color: #518ab8; color: #fff; padding: 0.7rem 1.5rem; border-radius: 2rem; font-size: 1.1rem; font-weight: 500">Apply Now</a>
-<a href="https://www.globaldeveloper.expert/learn-more" target="_blank" style="background-color: #518ab8; color: #fff; padding: 0.7rem 1.5rem; border-radius: 2rem; font-size: 1.1rem; font-weight: 500">Learn More</a>
-</div>
+## [Apply Now](https://www.globaldeveloper.expert/apply "Apply Now")
 
 Successful applicants earn the prestigious title of **Global Developer Expert**, gaining access to a thriving international network of peers and professional growth opportunities.
 
